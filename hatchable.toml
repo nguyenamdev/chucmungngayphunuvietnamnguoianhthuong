@@ -1,0 +1,5 @@
+# Hatchable project manifest. This file marks the folder as a
+# Hatchable project and declares the services it uses.
+# Reference: https://hatchable.com/docs/developers/config
+name = "20/10 — Ngàn Hoa Dành Cho Em"
+description = "Một trang thiệp 20/10 lãng mạn, phủ đầy hoa, tương thích iPhone và laptop, kèm lịch hẹn để cô ấy tự chọn ngày và hoạt động."
